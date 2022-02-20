@@ -6,4 +6,4 @@
 
 
 ## Para executar os programas:
-É necessário baixar, extrair e importar o projeto maven, onde cada pacote vai conter um .java com o numero da questão (ex: Q1_MAIN). É só executar esse arquivo como uma aplicação java que o programa estará pronto para uso.
+É necessário baixar, extrair e importar o projeto maven, onde cada pacote vai conter um .java com o numero da questão (ex: Q1_main), dentro do pacote da questão requisitada. É só executar esse arquivo como uma aplicação java que o programa estará pronto para uso.
