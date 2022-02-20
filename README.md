@@ -1,7 +1,8 @@
 # Desafio Academia
 
-O desafio foi implementado com a linguagem **JAVA**, utilizando a IDE **Eclipse**. 
-Para os testes unitários, foi utilizado o framework **JUnit**
+* O desafio foi implementado com a linguagem **JAVA**, utilizando a IDE **Eclipse**. 
+* Para os testes unitários, foi utilizado o framework **JUnit**.
+* A **documentação** encontra-se na pasta **doc** dentro da raiz do projeto.
 
 
 ## Para executar os programas:
