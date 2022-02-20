@@ -1,7 +1,7 @@
 # Desafio Academia
 
-### O desafio foi implementado com a linguagem **JAVA**, utilizando a IDE **Eclipse**. 
-### Para os testes unitários, foi utilizado o framework **JUnit**
+O desafio foi implementado com a linguagem **JAVA**, utilizando a IDE **Eclipse**. 
+Para os testes unitários, foi utilizado o framework **JUnit**
 
 
 ## Para executar os programas:
